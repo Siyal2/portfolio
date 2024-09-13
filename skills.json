@@ -1,0 +1,69 @@
+[
+
+
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Azure",
+        "icon": "https://webmobtechcdn.nyc3.cdn.digitaloceanspaces.com/wmt_v4/2021/07/Microsoft-Azure.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+
+    {
+        "name": "Google Cloud",
+        "icon": "https://img.icons8.com/color/48/000000/google-cloud"
+    },
+
+
+
+
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+
+    {
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/color/48/000000/ansible.png"
+    },
+    {
+        "name": "Product Management",
+        "icon": "https://img.icons8.com/?size=100&id=5NqU0lK0gFDU&format=png&color=000000"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+
+
+
+    {
+        "name": "WordPress Hosting",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },    
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"
+    },
+
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    }
+
+
+]
